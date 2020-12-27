@@ -42,19 +42,19 @@
   - text: GitHub
   -url: https://github.com/SmartCash
   - text: Services
-  -url: https://smartcash.cc/#services
+  -url: 
   - text: Projects
-  -url: https://smartcash.cc/#projects
+  -url: 
   - text: Exchanges
-  -url: https://smartcash.cc/#exchanges
+  -url: 
     submenu:
     - text: Exchange Listing Guide
-    -url: https://smartcash.cc/wp-content/uploads/2018/10/SmartCash-SMART-Exchange-Listing-Guide-v1.2.6.pdf
+    -url: https://smartcash.readthedocs.io/_/downloads/nl/latest/pdf/
   - text: Graphics
-  -url: https://smartcash.cc/graphics/
+  -url: 
     submenu:
     - text: Marketing Materials
-    -url: https://smartcash.cc/marketing-materials/
+    -url: https://www.dropbox.com/sh/u3wtklnz37x47xx/AADeLJfiH0ga_FCM19pWq39na?dl=0
 - text: News
   url: https://coinlance.com
   submenu:
