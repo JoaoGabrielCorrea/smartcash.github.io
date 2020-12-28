@@ -19,42 +19,122 @@
   submenu:
   - text: Guides
     submenu:
-    - text: Web Wallet Guides
-    - url: https://smartcash.freshdesk.com/support/solutions/folders/35000162353
-    - text: SmartNode Guides
-    -url: https://smartcash.freshdesk.com/support/solutions/folders/35000162349
-    - text: Hardware Wallet Guides
-    -url: https://smartcash.freshdesk.com/support/solutions/folders/35000209842
-    - text: Electrum Wallet Guides
-    url: https://smartcash.freshdesk.com/support/solutions/folders/35000208047
-    - text: Desktop Wallet Guides
-    -url: https://smartcash.freshdesk.com/support/solutions/folders/35000162354gi
-    - text: Mining Guides
-    -url: https://smartcash.freshdesk.com/support/solutions/folders/35000162431
-    - text: Proposal Guides
-    -url: https://smartcash.freshdesk.com/support/solutions/folders/35000162357
-    - text: SmartReward Guides
-    -url: https://smartcash.freshdesk.com/support/solutions/folders/35000162348
-  - text: insight Explorer
-  -url: https://insight.smartcash.cc/
-  - text: Pool Overview
-  -url: https://pool.smartcash.cc/
+     - text: Web Wallet Guides
+      url: https://smartcash.freshdesk.com/support/solutions/folders/35000162353
+     - text: SmartNode Guides
+      url: https://smartcash.freshdesk.com/support/solutions/folders/35000162349
+     - text: Hardware Wallet Guides
+      url: https://smartcash.freshdesk.com/support/solutions/folders/35000209842
+     - text: Electrum Wallet Guides
+      url: https://smartcash.freshdesk.com/support/solutions/folders/35000208047
+     - text: Desktop Wallet Guides
+      url: https://smartcash.freshdesk.com/support/solutions/folders/35000162354gi
+     - text: Mining Guides
+      url: https://smartcash.freshdesk.com/support/solutions/folders/35000162431
+     - text: Proposal Guides
+      url: https://smartcash.freshdesk.com/support/solutions/folders/35000162357
+     - text: SmartReward Guides
+      url: https://smartcash.freshdesk.com/support/solutions/folders/35000162348
+     - text: insight Explorer
+      url: https://insight.smartcash.cc/
+  -  text: Pool Overview
+    url: https://pool.smartcash.cc/
   - text: GitHub
-  -url: https://github.com/SmartCash
+    url: https://github.com/SmartCash
   - text: Services
-  -url: https://smartcash.cc/#services
+    submenu:
+     - text: CoinKit
+     url: https://coinkit.de/
+     - text: SendSmartcash
+     url: https://sendsmartcash.cc/
+     - text: Kamoney
+     url: https://www.kamoney.com.br/
+     - text: Pungo
+     url: https://www.pungo.cash/
+     - text: Iozeta
+     url: https://www.iozeta.com/
+     - text: SmartPay Shop
+     url: https://smartcashpay.com/
+     - text: General Bytes
+     url: https://www.generalbytes.com/
+     - text: CoinPayments
+     url: https://www.coinpayments.net/
+     - text: Bitc
+     url: https://bitc.ch/
+     - text: Midas Investments
+     url: https://midas.investments/
+     - text: Check my Coins
+     url: https://checkmycoin.com/coins/smartcash/ 
+    submenu:
   - text: Projects
-  -url: https://smartcash.cc/#projects
+    submenu:
+     - text: SmartTalk
+      url: https://smartcashradio.libsyn.com/
+     - text: SmartStats
+      url: https://stats.smartcash.cc/
+     - text: Find Smartcash
+      url: https://find.smartcash.cc/
+    submenu:
   - text: Exchanges
-  -url: https://smartcash.cc/#exchanges
+     submenu:
+     - text: Local Bitcoin Cash
+     url: https://localbitcoincash.org/index.asp 
+     - text: Swiftchain
+     url: https://www.switchain.com/ 
+     - text: Coinbene
+      url: https://www.coinbene.com/
+     - text: Ebitcoinics
+      url: http://www.ebitcoinics.com/
+     - text: Swapspace
+      url: https://swapspace.co/
+     - text: Changelly
+      url: https://changelly.com/
+     - text: Changelly Pro
+     url: https://pro.changelly.com/
+     - text: Instaswap
+     url: https://instaswap.io/
+     - text: Stealthex
+     url: https://stealthex.io/
+     - text: Swapzone
+     url: https://swapzone.io/?to=smart 
+     - text: BitcoinP2P
+     url: https://bitcoinp2p.com.br/
+     - text: Finexbox
+     url: https://www.finexbox.com/
+     - text: Parsxc
+     url: https://parsxc.com/
+     - text: Stratum
+     url: https://stratum.hk/
+     - text: Delion Dex
+     url: https://dex.delion.online/market/DELION.SMART_DELION.BTC
+     - text: Bittorro
+     url: https://bittorro.io/
+     - text: Swap4me
+     url: https://swap4.me/
+     - text: Edge
+     url: https://edge.app/
+     - text: Safetrade
+     url: https://safe.trade/trading/bcsmart 
+     - text: Pungo
+     url: https://pungo.io/
+     - text: Ellipal
+     url: https://play.google.com/store/apps/details?id=com.ellipal.wallet
+     - text: Coinswitch
+     url: https://coinswitch.co/
+     - text: Stex
+     url: https://app.stex.com/en/basic-trade/pair/BTC/SMART
+     - text: HitBtc
+     url: https://hitbtc.com/
+     - text: Coinomi
+     url: https://www.coinomi.com/en/ 
     submenu:
     - text: Exchange Listing Guide
-    -url: https://smartcash.cc/wp-content/uploads/2018/10/SmartCash-SMART-Exchange-Listing-Guide-v1.2.6.pdf
+      url: https://smartcash.cc/wp-content/uploads/2018/10/SmartCash-SMART-Exchange-Listing-Guide-v1.2.6.pdf
   - text: Graphics
-  -url: https://smartcash.cc/graphics/
+    url: https://smartcash.cc/graphics/
     submenu:
     - text: Marketing Materials
-    -url: https://smartcash.cc/marketing-materials/
+      url: https://smartcash.cc/marketing-materials/
 - text: News
   url: https://coinlance.com
   submenu:
